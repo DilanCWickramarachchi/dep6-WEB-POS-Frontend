@@ -1,7 +1,15 @@
 #btn\ btn-delete{
-    width: 100px;
-    padding: 5px;
+    position: relative;
+    left: 40px;
 }
 #btn\ btn-save{
-
+    position: relative;
+    left: 20px;
+}
+.table-responsive{
+    position: relative;
+    top: 20px;
+}
+.form-control{
+    margin-left: 15px;
 }

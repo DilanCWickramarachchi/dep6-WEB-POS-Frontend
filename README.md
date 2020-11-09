@@ -6,3 +6,4 @@ Modify Manage Customer File
 Add License File
 Modify License File
 Add Manage Item File
+Modify Manage-customer, Manage-Item, Style.css And Index file
